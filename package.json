@@ -1,0 +1,23 @@
+{
+  "name": "isoneword",
+  "version": "1.0.0",
+  "description": "A lightweight, zero-dependency utility for validation, formatting, and RSS feed generation.",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "isoneword",
+    "validation",
+    "rss",
+    "typescript",
+    "zero-dependency"
+  ],
+  "author": "Sue Ann Ioanis <s70550687@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
